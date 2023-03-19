@@ -14,7 +14,7 @@
   - LinkedIn: [Nozomi Imai](https://www.linkedin.com/in/nozomi-imai-06737920a/)
 
 
-<h2 align="center">Github stats</h2> 
+<h2>Github stats:</h2> 
 
 <br>
 
