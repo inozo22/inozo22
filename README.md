@@ -8,7 +8,7 @@
 
 
 ## Tools:
-<img src="https://skillicons.dev/icons?i=github,vscode, wordpress">
+<img src="https://skillicons.dev/icons?i=github,vscode,wordpress">
 
 ## How to reach me: 
   - LinkedIn: [Nozomi Imai](https://www.linkedin.com/in/nozomi-imai-06737920a/)
