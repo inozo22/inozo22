@@ -35,7 +35,7 @@ Via LinkedIn: [Nozomi Imai](https://www.linkedin.com/in/nozomi-imai-06737920a/)
 
 <br>
 
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=inozo22&&style=flat-square" align="center" />
 </div> 
 
