@@ -21,7 +21,7 @@ Via LinkedIn: [Nozomi Imai](https://www.linkedin.com/in/nozomi-imai-06737920a/)
 <br>
 
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=inozo22&show_icons=true&count_private=true&hide=contribs,issues" alt="inozo22" style="width:42%">
 </div>
 
@@ -29,7 +29,7 @@ Via LinkedIn: [Nozomi Imai](https://www.linkedin.com/in/nozomi-imai-06737920a/)
 
 <br>
 
-<div align="center">
+<div>
   <img src="https://github-profile-trophy.vercel.app/?username=inozo22&row=1" alt="inozo22" style="width:75%">
 </div>
 
