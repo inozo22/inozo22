@@ -4,11 +4,11 @@
 </div>
 
 ## Languages:
-<img src="https://skillicons.dev/icons?i=c,html,css">
+<img src="https://skillicons.dev/icons?i=c,bash,html,css">
 
 
 ## Tools:
-<img src="https://skillicons.dev/icons?i=github,vscode,wordpress">
+<img src="https://skillicons.dev/icons?i=github,vscode,wordpress,git">
 
 ## How to reach me: 
 Via LinkedIn: [Nozomi Imai](https://www.linkedin.com/in/nozomi-imai-06737920a/)
