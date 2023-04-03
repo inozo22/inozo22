@@ -22,7 +22,7 @@ Via LinkedIn: [Nozomi Imai](https://www.linkedin.com/in/nozomi-imai-06737920a/)
 
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=inozo22&show_icons=true&count_private=true&hide=contribs,issues" alt="inozo22" style="width:42%">
+ <img src="https://github-readme-stats.vercel.app/api?username=inozo22&show_icons=true&count_private=true&hide=contribs,issues" alt="inozo22" style="width:42%">
 </div>
 
 <br>
