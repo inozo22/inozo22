@@ -4,7 +4,7 @@
 </div>
 
 ## Languages:
-<img src="https://skillicons.dev/icons?i=c,bash,html,css">
+<img src="https://skillicons.dev/icons?i=c,bash,cpp,html,css">
 
 
 ## Tools:
