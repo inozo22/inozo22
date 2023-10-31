@@ -11,7 +11,7 @@
 <img src="https://skillicons.dev/icons?i=github,vscode,wordpress,git">
 
 ## How to reach me: 
-Via LinkedIn: [Nozomi Imai](https://www.linkedin.com/in/nozomi-imai-06737920a/)
+Via LinkedIn: [Nozomi Imai](https://www.linkedin.com/in/nozomi-imai/)
 
 
 <h2>Github stats:</h2> 
